@@ -1,7 +1,6 @@
 from aiohttp import web
 import os
 import argparse
-import http
 
 
 PATH = os.path.abspath(os.path.curdir)
